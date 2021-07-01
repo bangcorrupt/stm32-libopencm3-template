@@ -1,4 +1,4 @@
-Easy "clone and go" repository for a libopencm3 based project.
+libopencm3 based blink project for stm32f411ceu6.
 
 Based on https://github.com/libopencm3/libopencm3-template
 
