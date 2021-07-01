@@ -1,4 +1,4 @@
-PROJECT = stm32-test
+PROJECT = blink
 BUILD_DIR = bin
 
 SHARED_DIR = ../common
