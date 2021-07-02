@@ -1,4 +1,4 @@
-libopencm3 based blink project for stm32f411ceu6.
+libopencm3 based blink project for stm32f411ce.
 
 Based on https://github.com/libopencm3/libopencm3-template
 
